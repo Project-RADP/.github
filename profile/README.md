@@ -40,9 +40,9 @@ chip.yaml → RTL → lint → unit sim → compliance → lockstep → formal �
 
 | Repo | Description |
 | --- | --- |
-| [`radp`](https://github.com/ORG/radp) | Core platform: orchestrator, agents, tool contracts, web UI |
-| [`radp-cores`](https://github.com/ORG/radp-cores) | Reference RISC-V cores produced and verified by the pipeline |
-| [`radp-evals`](https://github.com/ORG/radp-evals) | Agent benchmarks and eval harness |
+| [`radp`](https://github.com/Project-RADP/radp) | Core platform: orchestrator, agents, tool contracts, web UI |
+| [`radp-cores`](https://github.com/Project-RADP/radp-cores) | Reference RISC-V cores produced and verified by the pipeline |
+| [`radp-evals`](https://github.com/Project-RADP/radp-evals) | Agent benchmarks and eval harness |
 
 ### Get involved
 
