@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://halid.org">Blog</a> ·
-  <a href="https://github.com/ORG/radp">Main repo</a> ·
-  <a href="https://github.com/ORG/radp/discussions">Discussions</a>
+  <a href="https://github.com/Project-RADP/radp">Main repo</a> ·
+  <a href="https://github.com/Project-RADP/radp/discussions">Discussions</a>
 </p>
 
 ---
